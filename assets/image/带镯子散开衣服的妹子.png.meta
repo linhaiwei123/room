@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2d7cfbc6-d599-4d83-af90-1a36894f8cb1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "带镯子散开衣服的妹子": {
+      "ver": "1.0.2",
+      "uuid": "1e795f82-5695-45ae-9d9d-867c9f33725c",
+      "rawTextureUuid": "2d7cfbc6-d599-4d83-af90-1a36894f8cb1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -20.5,
+      "trimX": 261,
+      "trimY": 41,
+      "width": 431,
+      "height": 599,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

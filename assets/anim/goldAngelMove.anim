@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goldAngelMove",
+  "_objFlags": 0,
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            5,
+            -19
+          ],
+          "motionPath": [
+            [
+              169,
+              59,
+              86,
+              102,
+              199,
+              44
+            ],
+            [
+              165,
+              -91,
+              124,
+              -55,
+              154,
+              -195
+            ]
+          ],
+          "curve": "sineIn"
+        },
+        {
+          "frame": 1,
+          "value": [
+            376,
+            -211
+          ],
+          "motionPath": []
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {}
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "onMoveFinish",
+      "params": []
+    }
+  ]
+}

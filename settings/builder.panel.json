@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.room_2",
+  "startScene": "3487d60e-0b0a-477c-a2c6-64c79fb19b0a",
+  "title": "room_2",
+  "webOrientation": "auto"
+}

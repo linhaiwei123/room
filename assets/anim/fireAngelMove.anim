@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fireAngelMove",
+  "_objFlags": 0,
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "motionPath": [
+            [
+              124,
+              29,
+              29,
+              29,
+              169,
+              29
+            ],
+            [
+              272,
+              -34,
+              221,
+              -28,
+              339,
+              -41
+            ]
+          ],
+          "curve": [
+            0.6,
+            -0.27,
+            0.73,
+            0.04
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            401,
+            3
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "onMoveFinish",
+      "params": []
+    }
+  ]
+}
